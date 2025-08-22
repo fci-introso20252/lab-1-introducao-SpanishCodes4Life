@@ -25,19 +25,24 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Qual foi o comando mais útil que você aprendeu? Por quê?**
 
 ```
-[Sua resposta aqui]
+cd 
+git 
+ls 
+cat 
+Ambos são comandos básicos, porém básico não significa que sejam fáceis ou obsoletos, sabendo estes simples comandos é possível versionar qual aplicação em qualquer terminal(linux,ou quase windows)o que auxilia bastante o programador.
 ```
 
 **2. Qual comando você achou mais difícil de entender? Por quê?**
 
 ```
-[Sua resposta aqui]
+/*.[tipo do arquivo]
+é muito pequeno que é quase inperceptível quando aprendemos, que eu esqueço
 ```
 
 **3. Você conseguiu completar todos os exercícios? Se não, quais dificuldades encontrou?**
 
 ```
-[Sua resposta aqui]
+Sim, terminei
 ```
 
 ---
@@ -49,21 +54,21 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Liste 3 diferenças principais entre usar Windows e Linux que você notou:**
 
 ```
-1. [Primeira diferença]
-2. [Segunda diferença]
-3. [Terceira diferença]
+1. diferença entre ls & dir
+2. não possui echo ou touch
+3. pipeline |||
 ```
 
 **2. Para tarefas do dia a dia, qual sistema você prefere? Por quê?**
 
 ```
-[Sua resposta aqui]
+Linux seria quase porque eu aprendi mais seus comandos CLI, mas Windows pela facilidade do GUI.
 ```
 
 **3. Em que situações o Linux seria mais vantajoso que o Windows?**
 
 ```
-[Sua resposta aqui]
+versionamento de código, e ações simples como ls echo touch etc.
 ```
 
 ---
@@ -75,21 +80,21 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Por que é importante para um profissional de Sistemas de Informação conhecer Linux?**
 
 ```
-[Sua resposta aqui]
+Quase tudo é linux , para um profissional saber o básico de Linux, é possivel já resolver diversos problemas de Sistemas.
 ```
 
 **2. Como o conhecimento de comandos Linux pode ajudar na gestão de TI de uma empresa?**
 
 ```
-[Sua resposta aqui]
+Arquitetura de gestão
 ```
 
 **3. Cite 3 aplicações práticas do Linux no ambiente empresarial:**
 
 ```
-1. [Primeira aplicação]
-2. [Segunda aplicação]
-3. [Terceira aplicação]
+1. Gestão de Aplicações
+2. Versionamento
+3. Arquitetura
 ```
 
 ---
@@ -101,24 +106,24 @@ Para elaborar um relatório completo e que realmente agregue valor ao seu aprend
 **1. Quantos arquivos você criou no diretório `outputs/`?**
 
 ```
-Total de arquivos: _____
+Total de arquivos: 22
 ```
 
 **2. Qual foi o tamanho total do diretório `meu_diretorio` que você criou?**
 
 ```bash
 # Use o comando: du -sh meu_diretorio/
-Tamanho: _____
+Tamanho: 40K
 ```
 
 **3. Liste os 5 comandos que você mais usou durante o laboratório:**
 
 ```
-1. _____
-2. _____
-3. _____
-4. _____
-5. _____
+1. cd
+2. ls
+3. cat
+4. echo
+5. pwd
 ```
 
 ---
@@ -130,13 +135,13 @@ Tamanho: _____
 **1. Você já tinha usado Git antes? Se sim, em que contexto?**
 
 ```
-[Sua resposta aqui]
+Sim, para o versionamento através da Eclipse IDE, é mais rápido do que adicionar manualmente os arquivos
 ```
 
 **2. Qual a importância do versionamento de código para empresas?**
 
 ```
-[Sua resposta aqui - mínimo 3 linhas]
+Gera Herança, backups, e melhor fluxo de equipes
 ```
 
 ---
@@ -148,13 +153,13 @@ Tamanho: _____
 **1. Que tipo de tarefas você poderia automatizar usando comandos Linux?**
 
 ```
-[Sua resposta aqui - cite pelo menos 2 exemplos]
+Inserção de cada file .java para x diretorio
 ```
 
 **2. Você consideraria usar Linux como sistema operacional principal? Por quê?**
 
 ```
-[Sua resposta aqui]
+Não, apenas daqui uns anos, o windows é bem mais fácil e possui mais compatibilidade com diversos programas que uso, linux apenas para um notebook pela personalização e mais controle do sistemas.
 ```
 
 ---
@@ -164,13 +169,13 @@ Tamanho: _____
 **O que você achou mais interessante no laboratório?**
 
 ```
-[Sua resposta aqui]
+git
 ```
 
 **O que poderia ser melhorado para próximos labs?**
 
 ```
-[Sua resposta aqui]
+git 
 ```
 
 ---
@@ -179,10 +184,10 @@ Tamanho: _____
 
 Antes de enviar, verifique:
 
-- [ ] Preenchi todas as seções do relatório
-- [ ] Completei todos os exercícios em EXERCICIOS.md
-- [ ] Salvei todos os outputs na pasta outputs/
-- [ ] Criei o diretório meu_diretorio com os arquivos solicitados
-- [ ] Fiz git add, commit e push
+- [✅ ] Preenchi todas as seções do relatório
+- [✅] Completei todos os exercícios em EXERCICIOS.md
+- [✅] Salvei todos os outputs na pasta outputs/
+- [✅] Criei o diretório meu_diretorio com os arquivos solicitados
+- [✅ ] Fiz git add, commit e push
 
 ---

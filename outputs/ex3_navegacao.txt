@@ -1,0 +1,5 @@
+/workspaces/lab-1-introducao-SpanishCodes4Life/exemplos
+/workspaces/lab-1-introducao-SpanishCodes4Life
+/workspaces/lab-1-introducao-SpanishCodes4Life/docs
+/workspaces/lab-1-introducao-SpanishCodes4Life/outputs
+/workspaces/lab-1-introducao-SpanishCodes4Life

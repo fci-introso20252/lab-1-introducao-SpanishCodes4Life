@@ -1,0 +1,21 @@
+   45  free -h outputs/ex11_sistema.txt 
+   46  free -h >> outputs/ex11_sistema.txt 
+   47  cat outputs/ex11_sistema.txt 
+   48  clear
+   49  clear history
+   50  ps aux
+   51  ps aux | head -10 > outputs/ex12_processos.txt
+   52  cat outputs/ex12_processos.txt 
+   53  clear
+   54  pstree | head -20 >> outputs/ex12_processos.txt 
+   55  pstree
+   56  tree
+   57  ls > outputs/ex2_ls_simples.txt
+   58  ls -la > outputs/ex2_ls_detalhado.txt
+   59  ls exemplos/ > outputs/ex2_ls_exemplos.txt
+   60  tree
+   61  top -b -n 1 
+   62  top -b -n 1 | head -20 >> outputs/ex12_processos.txt 
+   63  history
+   64  history | tail -20 > outputs/ex13_historico.txt
+   70  history | grep "mkdir" >> outputs/ex13_historico.txt 
