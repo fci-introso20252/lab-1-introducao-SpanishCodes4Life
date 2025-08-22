@@ -1,0 +1,3 @@
+/workspaces/lab-1-introducao-SpanishCodes4Life
+codespace
+Fri Aug 22 12:49:29 UTC 2025
